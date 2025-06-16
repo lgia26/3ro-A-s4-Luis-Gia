@@ -142,3 +142,8 @@ a {
         transform: scaleX(.85);
     }
 }
+.tabla-estilo, .tabla-estilo th, .tabla-estilo td{
+    border: 1px solid #333;
+    padding: 10px;
+    text-align: left;
+}
